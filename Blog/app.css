@@ -1,0 +1,14 @@
+/* Select the h1 element, make its text
+  white and the background green
+*/
+h1 {
+  color : white;
+  background : green;
+}
+
+/* Select any HTML element with the class
+  attribute "red", and make its text red
+*/
+.red {
+  color : red;
+}
